@@ -1,0 +1,13 @@
+HTML SAMPLE PROJECTS FILES
+===========================
+Project1.html
+Home1.html
+About1.html
+login1.html
+register1.html
+viewdetails.html
+
+BOOTSTRAP SAMPLE PROJECTS FILES
+================================
+GridSystem.html
+Bootstrapnav.html(navbar,carousel)
