@@ -1,5 +1,6 @@
 HTML SAMPLE PROJECTS FILES
 ===========================
+htmlnavbar.txt
 Project1.html
 Home1.html
 About1.html
@@ -10,4 +11,8 @@ viewdetails.html
 BOOTSTRAP SAMPLE PROJECTS FILES
 ================================
 GridSystem.html
+navbar.txt
 Bootstrapnav.html(navbar,carousel)
+bootstraplogin.html(loginForm)
+bootstrapaddproduct.html(Addproduct)
+bootstrapaboutus.html(AboutUs)

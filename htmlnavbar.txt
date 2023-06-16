@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <img src="images/logo.jpeg" alt="" width="20%" height="20%">
+        <br>
+        <br>
+        <a href="home1.html">Home1</a>
+        <a href="about1.html">AboutUs1</a>
+        <a href="login1.html">Login1</a>
+        <a href="register1.html">Register1</a>
+        <a href="viewdetails1.html">ViewDetails</a>
+        <a href="login1.html"><img src="images/loginlogo.png" width="20px" height="20px"/></a>
+    </center>
+    <a href="viewdetails1.html"><img src="images/c1.jpeg" alt=""></a>
+    <hr>
+    <center><h4>@CopyRightLivewireTeam</h4></center>
+</body>
+</html>
