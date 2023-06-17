@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
 
@@ -29,14 +30,23 @@
            </div>
         </nav>
         <!--Nav bar End-->
-        <img src="images/b2.jpeg" alt="" width="70px" height=70px" class="img-thumbnail">
-  <p>
-    Flipkart was founded in October 2007 in Mumbai by 
-    Sachin Bansal and Binny Bansal, alumni of the IIT, Delhi and former 
-    Amazon employees. The company initially focused on online book sales with country-wide 
-    shipping.
-     Flipkart slowly grew in prominence and 
-     was receiving 100 orders per day by 2008.
-  </p>
+    <table class="table table-striped">
+        <th>ProductId</th>
+        <th>ProductName</th>
+        <th>ProductPrice</th>
+        <th>Action</th>
+        <tr>
+            <td>1001</td>
+            <td>Apple</td>
+            <td>100</td>
+            <td><button type="submit" class="btn btn-success">AddCart</button>||<button type="button" class="btn btn-warning">Buy</button></td>
+        </tr>
+        <tr>
+            <td>1002</td>
+            <td>Apple1</td>
+            <td>200</td>
+            <td><button type="submit" class="btn btn-success">AddCart</button>||<button type="button" class="btn btn-warning">Buy</button></td>
+        </tr>
+    </table>
 </body>
 </html>
